@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "NASA Physics of the Cosmos Newsletter
+date:   2017-12-09 12:15:34 -0800
+categories: NASA publications 
+---
+
+I wrote a newsletter on the neutrino view of high-energy astrophysics for the [NASA Physics of the Cosmos][pcos] [Newsletter][news]. 
+
+[pcos]: https://pcos.gsfc.nasa.gov
+[news]: https://pcos.gsfc.nasa.gov/newsletters/PCOS-Newsletter-V7-n1-Dec2017-Final.pdf
