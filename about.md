@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Stephanie Wissel's group is involved in the ANITA and ARA experiments, as well as development for future instruments to detect the highest energy particles in the universe. We are members of the Physics Deparment at Cal Poly,  and we collaborate with Dean Arakaki in the Cal Poly EE Deparment.
 
 You can find the source code for Minima at GitHub:
 [jekyll][jekyll-organization] /
