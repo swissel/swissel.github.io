@@ -23,9 +23,13 @@ github_username:  swissel
 
 # Build settings
 markdown: kramdown
-remote_theme: "mmistakes/minimal-miskates" 
+# use for local hosting
+#theme: minimal-mistakes-jekyll
+# use for remote hosting
+remote_theme: "mmistakes/minimal-mistakes"
 plugins:
   - jekyll-feed
+# Use for remote hosting with GithubPages 
   - jekyll-remote-theme
 
 # Exclude from processing.
