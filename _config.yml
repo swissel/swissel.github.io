@@ -23,9 +23,11 @@ github_username:  swissel
 
 # Build settings
 markdown: kramdown
-theme: minima
+# theme: minima
+remote_theme: "mmistakes/minimal-mistakes-jekyll"
 plugins:
   - jekyll-feed
+  - jekyll-remote-theme
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
