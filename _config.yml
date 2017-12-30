@@ -44,4 +44,16 @@ plugins:
 #   - vendor/gems/
 #   - vendor/ruby/
 
-#theme: jekyll-theme-cayman
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      read_time: true
+      comments: true
+      share: true
+      related: true
+
+minimal_mistakes_skin: "contrast"
