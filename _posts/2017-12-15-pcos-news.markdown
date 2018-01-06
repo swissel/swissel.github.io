@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  NASA Newsletter
 date:   2017-12-15 08:00:00 -0800
 categories: NASA publications 
