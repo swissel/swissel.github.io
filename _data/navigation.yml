@@ -1,9 +1,9 @@
 # main links
 main:
   - title: "About"
-    url: https://swissel.github.io/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
+    url: /about/
+  - title: "Sample Posts"
+    url: /year-archive/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
