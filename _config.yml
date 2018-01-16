@@ -24,7 +24,7 @@ github_username:  swissel
 # Build settings
 markdown: kramdown
 # use for local hosting
-theme: minimal-mistakes-jekyll
+# theme: minimal-mistakes-jekyll
 # use for remote hosting
 remote_theme: "mmistakes/minimal-mistakes"
 plugins:
