@@ -13,7 +13,7 @@
 # use for local hosting
 #theme: minimal-mistakes-jekyll
 # use for remote hosting
-remote_theme: "mmistakes/minimal-mistakes"
+remote_theme: "mmistakes/minimal-mistakes@4.13.0"
 
 # Site Settings
 locale                   : "en-US"
