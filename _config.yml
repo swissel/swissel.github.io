@@ -18,6 +18,11 @@ plugins:
   - jekyll-feed
 # Use for remote hosting with GithubPages 
   - jekyll-remote-theme
+  - jekyll-include-cache
+  - jemoji
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
 
 # Site Settings
 locale                   : "en-US"
