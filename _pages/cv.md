@@ -7,6 +7,6 @@ redirect_from:
   - /resume
 ---
 
-[Curriculum Vitae](assets/images/swissel_CV.pdf)
+[Curriculum Vitae](../assets/images/swissel_CV.pdf)
 
 
