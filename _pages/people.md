@@ -1,0 +1,42 @@
+---
+layout: single
+title: People
+permalink: /about/
+---
+
+Stephanie Wissel
+Assistant Professor, Pennsylvania State University, January 2020-present
+Assistant Professor, California Polytechnic State University, 2015-present
+
+[ORCiD](https://orcid.org/0000-0003-0569-6978)
+[Inpsire-HEP](https://labs.inspirehep.net/authors/1050673)
+[Google Scholar](https://scholar.google.com/citations?user=RZAmpswAAAAJ&hl=en)
+[GitHub](https://github.com/swissel)
+
+Current Group Members:
+Katie Carter
+Andres Rodriguez
+Mercedes Vasquez
+Joe Crowley
+Adbulraman Kauther
+Brandon Dela Cruz
+Max Stapel-Kalat
+Zoe Riesen
+
+Former Group Members:
+Sam Hopfe -- Private industry, technology
+Jenny Smit -- Masters program, Oregon State University
+Jaxon Stuhr -- Berkeley
+Jacob Trevithick -- Cal Poly Masters EE, Private industry, electrical engineering
+Corey Harris -- Masters program, University of Oregon
+Luke Letwin -- Private industry, electrical engineering
+Caroline Paciaroni -- Private industry, science and engineering
+Sam Romano
+Keith Lamy
+Donald Hersam -- Private industry
+Rebecca Shen
+Alex Crawford
+Matthew Hamlin -- Masters program, University of Washington
+Wesley Mession -- Private industry, electrical engineering
+Cora Karamitos
+
