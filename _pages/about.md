@@ -1,6 +1,6 @@
 ---
 layout: single
-title: People
+title: About
 permalink: /about/
 ---
 
@@ -16,8 +16,6 @@ Stephanie Wissel
 [Inspire-HEP](https://labs.inspirehep.net/authors/1050673) \|  
 [Google Scholar](https://scholar.google.com/citations?user=RZAmpswAAAAJ&hl=en) \|   
 [GitHub](https://github.com/swissel) \|  
-
-
 
 Education
 ----------
