@@ -13,7 +13,16 @@ Assistant Professor, California Polytechnic State University, 2015-present
 [Google Scholar](https://scholar.google.com/citations?user=RZAmpswAAAAJ&hl=en)
 [GitHub](https://github.com/swissel)
 
+Office: 180-616
+
+Education
+=========
++ Postdoctoral Researcher, UCLA, Saltzberg Group
++ Postdoctoral Researcher, Princeton Plasma Physics Laboratory, Science Education Group
++ Ph.D. Physics, University of Chicago, Kavli Institute for Cosmological Physics (KICP) Advisor: Scott Wakely, Thesis: [Observations of Direct Cerenkov Light in Ground-Based Telescopes and the Flux of Iron Nuclei at TeV Energies](https://search.proquest.com/docview/610057950)
+
 Current Group Members:
+=====================
 Katie Carter
 Andres Rodriguez
 Mercedes Vasquez
@@ -24,6 +33,7 @@ Max Stapel-Kalat
 Zoe Riesen
 
 Former Group Members:
+====================
 Sam Hopfe -- Private industry, technology
 Jenny Smit -- Masters program, Oregon State University
 Jaxon Stuhr -- Berkeley
