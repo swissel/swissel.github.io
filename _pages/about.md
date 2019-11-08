@@ -1,6 +1,6 @@
 ---
 layout: single
-title: People
+title: About
 permalink: /about/
 ---
 
