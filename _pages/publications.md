@@ -28,7 +28,7 @@ author_profile: true
 + [Characteristics of Four Upward-Pointing Cosmic-Ray-like Events Observed with ANITA.](https://doi.org/10.1103/PhysRevLett.117.071101) The ANITA Collaboration. *PRL* 117, 071101, 2016.   
 + [A lower bound on the number of cosmic ray events required to measure source catalogue correlations.](https://doi.org/10.1088/1475-7516/2016/10/028) M. Dolci, A. Romero-Wolf, **S. Wissel**. *Journal of Cosmology and Astroparticle Physics* 2016, 028, 2016.  
 + [Accelerator measurements of magnetically induced radio emission from particle cascades with applications to cosmic-ray air showers.](https://doi.org/10.1103/PhysRevLett.116.141103) K. Belov, K. Mulrey, A. Romero-Wolf, **S. A. Wissel** A. Zilles, *et al.* *PRL* 116, 141103, 2016.  
-+ [Energy and Flux Measurements of Ultra-High Energy Cosmic Rays Observed During the First ANITA Flight.](https://doi.org/10.22323/1.236.0272) H. Schoorlemmer, K. Belov, A. Romero-Wolf, D. Garcia-Fernandez, V. Bugaev, **S. A. Wissel* *et al.* *Astroparticle Physics* 77, 32-43, Jan. 2016.   
++ [Energy and Flux Measurements of Ultra-High Energy Cosmic Rays Observed During the First ANITA Flight.](https://doi.org/10.22323/1.236.0272) H. Schoorlemmer, K. Belov, A. Romero-Wolf, D. Garcia-Fernandez, V. Bugaev, **S. A. Wissel** *et al.* *Astroparticle Physics* 77, 32-43, Jan. 2016.   
 + [Observation of Markarian 421 in TeV gamma rays over a 14-year time span](http://dx.doi.org/http://dx.doi.org/10.1016/j.astropartphys.2013.10.004). The VERITAS Collaboration. *Astroparticle Physics* 54, 1, 2014.  
 + [The Use of DC Glow Discharges as Undergraduate Education Tools.](https://doi.org/10.1119/1.4811435) **S. A. Wissel** J. L. Ross, S. Gershman, A. Zwicker. *The American Journal of Physics* 81, 9, 2013.  
 + [The Track Imaging Cerenkov Experiment.](http://dx.doi.org/10.1016/j.nima.2011.07.016) **S. A. Wissel** *et al.* *NIM-A* 659, 1, 2011.  
@@ -38,10 +38,10 @@ author_profile: true
 + [TeV and Multi-wavelength Observations of Mrk 421 in 2006-2008](http://dx.doi.org/10.1088/0004-637X/738/1/25). The VERITAS Collaboration. *738* 25, 2011.  
 + [Results from the first two years of VERITAS observations](http://dx.doi.org/10.1016/j.nima.2010.06.019). The VERITAS Collaboration. *NIM-A* 630, 16, 2011.  
 + [Discovery of Very High Energy Gamma Rays from PKS 1424+240 and Multiwavelength Constraints on Its Redshift](http://dx.doi.org/10.1088/2041-8205/708/2/L100). The VERITAS Collaboration. *ApJ* 708, L100, 2010.  
-+ [Discovery of Very High Energy $\gamma$-ray Emission from the SNR G54.1+0.3](http://dx.doi.org/10.1088/2041-8205/719/1/L69). The VERITAS Collaboration. *ApJ* 719, L69, 2010.  
-+ [Erratum: Veritas Observations of a Very High Energy $\gamma$-ray Flare from the Blazar 3C 66A](http://dx.doi.org/10.1088/2041-8205/721/2/L203) The VERITAS Collaboration. *ApJ* 721, L203, 2010.  
++ [Discovery of Very High Energy gamma-ray Emission from the SNR G54.1+0.3](http://dx.doi.org/10.1088/2041-8205/719/1/L69). The VERITAS Collaboration. *ApJ* 719, L69, 2010.  
++ [Erratum: Veritas Observations of a Very High Energy gamma-ray Flare from the Blazar 3C 66A](http://dx.doi.org/10.1088/2041-8205/721/2/L203) The VERITAS Collaboration. *ApJ* 721, L203, 2010.  
 + [Observations of the Shell-type Supernova Remnant Cassiopeia A at TeV Energies with VERITAS](http://dx.doi.org/10.1088/0004-637X/714/1/163). The VERITAS Collaboration. *ApJ* 714, 163, 2010.  
-+ [The Discovery of $\gamma$-Ray Emission from the Blazar RGB J0710+591](http://dx.doi.org/10.1088/2041-8205/715/1/L49).The VERITAS Collaboration. *ApJ* 715, L49, 2010.  
++ [The Discovery of Gamma-Ray Emission from the Blazar RGB J0710+591](http://dx.doi.org/10.1088/2041-8205/715/1/L49).The VERITAS Collaboration. *ApJ* 715, L49, 2010.  
 + [Veritas 2008-2009 Monitoring of the Variable Gamma-ray Source M 87](http://dx.doi.org/10.1088/0004-637X/716/1/819). The VERITAS Collaboration. *ApJ* 716, 819, 2010.  
 + [VERITAS Search for VHE Gamma-ray Emission from Dwarf Spheroidal Galaxies](http://dx.doi.org/10.1088/0004-637X/720/2/1174). The VERITAS Collaboration. *ApJ* 720, 1174, 2010.  
 + [Detection of Extended VHE Gamma Ray Emission from G106.3+2.7 with VERITAS](http://dx.doi.org/10.1088/0004-637X/703/1/L6). The VERITAS Collaboration. *ApJ* 703, L6, 2009.  
@@ -49,7 +49,7 @@ author_profile: true
 + [Multiwavelength Observations of a TeV-Flare from W Comae] (http://dx.doi.org/10.1088/0004-637X/707/1/612). The VERITAS Collaboration. *ApJ* 707, 612, 2009.  	
 + [Multiwavelength Observations of LS I +61deg 303 with Veritas, Swift, and RXTE](http://dx.doi.org/10.1088/0004-637X/700/2/1034) The VERITAS, Swift, and RXTE Collaborations. *ApJ* 700, 1034, 2009.  
 + [Observation of Extended Very High Energy Emission from the Supernova Remnant IC 443 with VERITAS](http://dx.doi.org/10.1088/0004-637X/698/2/L133). The VERITAS Collaboration. *ApJ* 698, L133, 2009.  
-+ [Radio Imaging of the Very-High- Energy $\gamma$-Ray Emission Region in the Central Engine of a Radio Galaxy](http://dx.doi.org/10.1126/science.1175406). The VERITAS Collaboration, the VLBA 43 GHz M87 Monitoring Team, the H.E.S.S. Collaboration, the MAGIC Collaboration. *Science* 325, 444, 2009.  
++ [Radio Imaging of the Very-High- Energy Gamma-Ray Emission Region in the Central Engine of a Radio Galaxy](http://dx.doi.org/10.1126/science.1175406). The VERITAS Collaboration, the VLBA 43 GHz M87 Monitoring Team, the H.E.S.S. Collaboration, the MAGIC Collaboration. *Science* 325, 444, 2009.  
 + [Simultaneous Multiwavelength Observations of Markarian 421 During Outburst](http://dx.doi.org/10.1088/0004-637X/703/1/169). The VERITAS Collaboration. *ApJ* 703, 169, 2009.  
 + [VERITAS Observations of the BL Lac Object 1ES 1218+304.](http://dx.doi.org/10.1088/0004-637X/695/2/1370) The VERITAS Collaboration. *ApJ* 695, 1370, 2009.  
 + [VERITAS Upper Limit on the Very High Energy Emission from the Radio Galaxy NGC 1275](http://dx.doi.org/10.1088/0004-637X/695/2/1370). The VERITAS Collaboration. *ApJ* 706, L275, 2009.  
@@ -57,8 +57,8 @@ author_profile: true
 + [The June 2008 Flare of Markarian 421 from Optical to TeV Energies.](http://dx.doi.org/10.1088/0004-637X/691/1/L13) I. Donnarumma, *et al*. *ApJ* 691, L13, 2009.  
 + [A connection between star formation activity and cosmic rays in the starburst galaxy M82.](http://dx.doi.org/10.1038/nature08557) The VERITAS Collaboration. *Nature* 462, 770, 2009.  
 + [Observation of Gamma-Ray Emission from the Galaxy M87 above 250 GeV with VERITAS.](http://dx.doi.org/10.1086/587458) The VERITAS Collaboration. *ApJ* 679, 397, 2008.  
-+ [VERITAS Discovery of >200 GeV Gamma-Ray Emission from the Intermediate-Frequency-Peaked BL Lacertae Object W Comae.](http://dx.doi.org/10.1086/592244)[ The VERITAS Collaboration. *ApJ* 684, L73, 2008.  
-+ [VERITAS Observations of the $\gamma$-Ray Binary LS I +61 303](http://dx.doi.org/10.1086/587736) The VERITAS Collaboration. *ApJ* 679, 1427, 2008.  
++ [VERITAS Discovery of >200 GeV Gamma-Ray Emission from the Intermediate-Frequency-Peaked BL Lacertae Object W Comae.](http://dx.doi.org/10.1086/592244) The VERITAS Collaboration. *ApJ* 684, L73, 2008.  
++ [VERITAS Observations of the Gamma-Ray Binary LS I +61 303](http://dx.doi.org/10.1086/587736) The VERITAS Collaboration. *ApJ* 679, 1427, 2008.  
 + [First results from VERITAS](http://dx.doi.org/10.1016/j.nima.2008.01.020). The VERITAS Collaboration. *NIM-A* 588, 26, 2008.  
 
 
