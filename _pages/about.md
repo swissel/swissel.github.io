@@ -11,7 +11,6 @@ Stephanie Wissel
   
 [Curriculum Vitae](../assets/images/swissel_CV.pdf)  
   
-Office: 180-616  
   
 [ORCiD](https://orcid.org/0000-0003-0569-6978) \|  
 [Inspire-HEP](https://labs.inspirehep.net/authors/1050673) \|  
