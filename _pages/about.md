@@ -17,8 +17,6 @@ Stephanie Wissel
 [Google Scholar](https://scholar.google.com/citations?user=RZAmpswAAAAJ&hl=en) \|   
 [GitHub](https://github.com/swissel) \|  
 
-
-
 Education
 ----------
 + Postdoctoral Researcher, UCLA, Saltzberg Group
