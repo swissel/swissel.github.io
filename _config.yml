@@ -89,7 +89,7 @@ analytics:
 # Site Author
 author:
   name             : "Stephanie Wissel"
-  avatar           : "profile.png"
+  avatar           : "assets/images/profile.jpg"
   bio              : "Assistant professor in physics"
   location         : "Cal Poly"
   employer         :
