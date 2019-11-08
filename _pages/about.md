@@ -10,7 +10,7 @@ Assistant Professor, California Polytechnic State University, 2015-present
 Office: 180-616
 
 [ORCiD](https://orcid.org/0000-0003-0569-6978)
-[Inpsire-HEP](https://labs.inspirehep.net/authors/1050673)
+[Inspire-HEP](https://labs.inspirehep.net/authors/1050673)
 [Google Scholar](https://scholar.google.com/citations?user=RZAmpswAAAAJ&hl=en)
 [GitHub](https://github.com/swissel)
 
