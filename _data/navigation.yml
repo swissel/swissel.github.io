@@ -2,14 +2,15 @@
 main:
   - title: "People"
     url: /people/
+
   #- title: "Publications"
   #  url: /publications/
 
   #- title: "Talks"
   #  url: /talks/    
 
-  - title: "Teaching"
-    url: /teaching/    
+  #- title: "Teaching"
+  #  url: /teaching/    
     
   #- title: "Portfolio"
   #  url: /portfolio/
