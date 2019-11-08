@@ -36,7 +36,7 @@ Current Group Members:
 
 Former Group Members:
 ====================
-+ Sam Hopfe -- Private industry, technology
++ Sam Hopfe -- Private industry
 + Jenny Smit -- Masters program, Oregon State University
 + Jaxon Stuhr -- Berkeley
 + Jacob Trevithick -- Cal Poly Masters EE, Private industry, electrical engineering
