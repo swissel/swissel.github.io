@@ -7,8 +7,9 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+Curriculum Vitae
 
+#{% include base_path %}
 #Education
 #======
 #* B.S. in Github, Github University, 2012
