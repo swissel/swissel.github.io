@@ -10,7 +10,7 @@ author_profile: true
 {% endif %}
 
 + [Astrophysics Uniquely Enabled by Observations of High-Energy Cosmic Neutrinos](http://arxiv.org/abs/arXiv:1903.04334) Markus Ackermann *et al.* *Bull. Am. Astron. Soc.* 51, 185, 2019.
-+ [Fundamental Physics with High-Energy Cosmic Neutrinos](http://arxiv.org/abs/arXiv:1903.04333)  *Bull. Am. Astron. Soc.] 51, 215, 2019.  
++ [Fundamental Physics with High-Energy Cosmic Neutrinos](http://arxiv.org/abs/arXiv:1903.04333)  *Bull. Am. Astron. Soc.* 51, 215, 2019.  
 + [The Next-Generation Radio Neutrino Observatory -- Multi-Messenger Neutrino Astrophysics at Extreme Energies](https://arxiv.org/abs/1907.12526) *submitted to Decadal Survey on Astronomy and Astrophysics (Astro2020)*, 2019.  
 + Expanding the Reach of Tau Neutrino Telescopes with the Beamforming Elevated Array for COsmic Neutrinos (BEACON). *submitted to Decadal Survey on Astronomy and Astrophysics (Astro2020)* 2019  
 + [Constraints on the ultrahigh-energy cosmic neutrino flux from the fourth flight of ANITA](https://doi.org/10.1103/PhysRevD.99.122001) The ANITA Collaboration. *PRD* 99, 122001, 2019.  
