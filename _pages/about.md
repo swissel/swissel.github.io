@@ -1,18 +1,52 @@
 ---
 layout: single
-title: About
+title: People
 permalink: /about/
 ---
 
-Stephanie Wissel's group collaborates on ANITA and ARA experiments, as well as development for future instruments to detect the highest energy particles in the universe. We are members of the Physics Deparment at Cal Poly,  and we collaborate with Dean Arakaki in the Cal Poly EE Deparment.
+Stephanie Wissel
+Assistant Professor, Pennsylvania State University, January 2020-present
+Assistant Professor, California Polytechnic State University, 2015-present
+Office: 180-616
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+[ORCiD](https://orcid.org/0000-0003-0569-6978)
+[Inpsire-HEP](https://labs.inspirehep.net/authors/1050673)
+[Google Scholar](https://scholar.google.com/citations?user=RZAmpswAAAAJ&hl=en)
+[GitHub](https://github.com/swissel)
 
 
-[jekyll-organization]: https://github.com/jekyll
+Education
+=========
++ Postdoctoral Researcher, UCLA, Saltzberg Group
++ Postdoctoral Researcher, Princeton Plasma Physics Laboratory, Science Education Group
++ Ph.D. Physics, University of Chicago, Kavli Institute for Cosmological Physics (KICP) Advisor: Scott Wakely, Thesis: [Observations of Direct Cerenkov Light in Ground-Based Telescopes and the Flux of Iron Nuclei at TeV Energies](https://search.proquest.com/docview/610057950)
+
+Current Group Members:
+=====================
+Katie Carter
+Andres Rodriguez
+Mercedes Vasquez
+Joe Crowley
+Adbulraman Kauther
+Brandon Dela Cruz
+Max Stapel-Kalat
+Zoe Riesen
+
+Former Group Members:
+====================
+Sam Hopfe -- Private industry, technology
+Jenny Smit -- Masters program, Oregon State University
+Jaxon Stuhr -- Berkeley
+Jacob Trevithick -- Cal Poly Masters EE, Private industry, electrical engineering
+Corey Harris -- Masters program, University of Oregon
+Luke Letwin -- Private industry, electrical engineering
+Caroline Paciaroni -- Private industry, science and engineering
+Sam Romano
+Keith Lamy
+Donald Hersam -- Private industry
+Rebecca Shen
+Alex Crawford
+Matthew Hamlin -- Masters program, University of Washington
+Wesley Mession -- Private industry, electrical engineering
+Cora Karamitos
+
