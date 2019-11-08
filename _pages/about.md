@@ -23,30 +23,30 @@ Education
 
 Current Group Members:
 =====================
-* Katie Carter
-* Andres Rodriguez
-* Mercedes Vasquez
-* Joe Crowley
-* Adbulraman Kauther
-* Brandon Dela Cruz
-* Max Stapel-Kalat
-* Zoe Riesen
++ Katie Carter
++ Andres Rodriguez
++ Mercedes Vasquez
++ Joe Crowley
++ Adbulraman Kauther
++ Brandon Dela Cruz
++ Max Stapel-Kalat
++ Zoe Riesen
 
 Former Group Members:
 ====================
-* Sam Hopfe -- Private industry, technology
-* Jenny Smit -- Masters program, Oregon State University
-* Jaxon Stuhr -- Berkeley
-* Jacob Trevithick -- Cal Poly Masters EE, Private industry, electrical engineering
-* Corey Harris -- Masters program, University of Oregon
-* Luke Letwin -- Private industry, electrical engineering
-* Caroline Paciaroni -- Private industry, science and engineering
-* Sam Romano
-* Keith Lamy
-* Donald Hersam -- Private industry
-* Rebecca Shen
-* Alex Crawford
-* Matthew Hamlin -- Masters program, University of Washington
-* Wesley Mession -- Private industry, electrical engineering
-* Cora Karamitos
++ Sam Hopfe -- Private industry, technology
++ Jenny Smit -- Masters program, Oregon State University
++ Jaxon Stuhr -- Berkeley
++ Jacob Trevithick -- Cal Poly Masters EE, Private industry, electrical engineering
++ Corey Harris -- Masters program, University of Oregon
++ Luke Letwin -- Private industry, electrical engineering
++ Caroline Paciaroni -- Private industry, science and engineering
++ Sam Romano
++ Keith Lamy
++ Donald Hersam -- Private industry
++ Rebecca Shen
++ Alex Crawford
++ Matthew Hamlin -- Masters program, University of Washington
++ Wesley Mession -- Private industry, electrical engineering
++ Cora Karamitos
 
