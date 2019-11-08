@@ -5,8 +5,8 @@ permalink: /about/
 ---
 
 Stephanie Wissel
-* Assistant Professor, Pennsylvania State University, January 2020-present
-* Assistant Professor, California Polytechnic State University, 2015-present
++ Assistant Professor, Pennsylvania State University, January 2020-present
++ Assistant Professor, California Polytechnic State University, 2015-present
 
 Office: 180-616
 
