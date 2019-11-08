@@ -10,7 +10,7 @@ redirect_from:
 Curriculum Vitae
 
 #{% include base_path %}
-#Education
+[//]: #Education
 #======
 #* B.S. in Github, Github University, 2012
 #* M.S. in Jekyll, Github University, 2014
