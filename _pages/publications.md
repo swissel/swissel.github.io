@@ -8,12 +8,13 @@ author_profile: true
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
-
++ [Suggestion of Coherent Radio Reflections from an Electron-Beam Induced Particle Cascade](https://doi.org/10.1103/PhysRevD.100.072003) S. Prohira, K. D. de Vries, D. Besson, A. Connolly, C. Hast, U. Latif, T. Meures, A. Nozdrina, J. P. Ralston, Z. Riesen, D. Saltzberg, J. Torres, **S. Wissel**, X. Zuo. *PRD* 100, 072003, 2019.
 + [Astrophysics Uniquely Enabled by Observations of High-Energy Cosmic Neutrinos](http://arxiv.org/abs/arXiv:1903.04334) Markus Ackermann *et al.* *Bull. Am. Astron. Soc.* 51, 185, 2019.
 + [Fundamental Physics with High-Energy Cosmic Neutrinos](http://arxiv.org/abs/arXiv:1903.04333)  *Bull. Am. Astron. Soc.* 51, 215, 2019.  
 + [The Next-Generation Radio Neutrino Observatory -- Multi-Messenger Neutrino Astrophysics at Extreme Energies](https://arxiv.org/abs/1907.12526) *submitted to Decadal Survey on Astronomy and Astrophysics (Astro2020)*, 2019.  
 + Expanding the Reach of Tau Neutrino Telescopes with the Beamforming Elevated Array for COsmic Neutrinos (BEACON). *submitted to Decadal Survey on Astronomy and Astrophysics (Astro2020)* 2019  
 + [Constraints on the ultrahigh-energy cosmic neutrino flux from the fourth flight of ANITA](https://doi.org/10.1103/PhysRevD.99.122001) The ANITA Collaboration. *PRD* 99, 122001, 2019.  
++ [Measurement of the real dielectric permittivity ϵr of glacial ice]{https://doi.org/10.1016/j.astropartphys.2019.01.004} The ARA Collaboration. *Astroparticle Physics* 108 63 2019.
 + [Comprehensive analysis of anomalous ANITA events disfavors a diffuse tau-neutrino flux origin.](https://doi.org/10.1103/PhysRevD.99.063011) A. Romero-Wolf, **S. A. Wissel** H. Schoorlemmer, W. R. Carvalho, Jr., J. Alvarez-Mu\ niz, E. Zas, and the ANITA Collaboration. *PRD* 99, 063011, 2019.   
 + [Design and Performance of an Interferometric Trigger Array for Radio Detection of High-Energy Neutrinos.](https://doi.org/10.1016/j.nima.2019.01.067) The ARA Collaboration. *NIM-A* 930, 112-125, 2019.   
 + [Measurements and modeling of near-surface radio propagation in glacial ice and implications for neutrino experiments.](https://doi.org/10.1103/PhysRevD.98.043010) C. Deaconu, A. G. Vieregg, **S. A. Wissel** J. Bowen, S. Chipman, A. Gupta, C. Miki, R. J. Nichol, and D. Saltzberg *PRD*  98, 4, 043010, 2018.  
