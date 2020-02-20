@@ -1,7 +1,7 @@
 ---
 layout: single
 title: People
-permalink: /about/
+permalink: /people/
 ---
 
 Stephanie Wissel
