@@ -20,16 +20,19 @@ Education
 Current Group Members
 =====================
 + Katie Carter
-+ Andres Rodriguez
++ Sam Keechler
++ Jissell Jose
++ Miclaine Entman
 + Mercedes Vasquez
++ Brandon Dela Cruz
+
+Former Group Members
+====================
++ Zoe Riesen
++ Max Stapel-Kalat
 + Joe Crowley
 + Adbulraman Kauther
-+ Brandon Dela Cruz
-+ Max Stapel-Kalat
-+ Zoe Riesen
-
-Former Group Members:
-====================
++ Andres Rodriguez
 + Sam Hopfe -- Private industry
 + Jenny Smit -- Masters program, Oregon State University
 + Jaxon Stuhr -- Berkeley
@@ -38,11 +41,10 @@ Former Group Members:
 + Luke Letwin -- Private industry, electrical engineering
 + Caroline Paciaroni -- Private industry, science and engineering
 + Sam Romano
-+ Keith Lamy
++ Keith Lamy -- Private industry, engineering
 + Donald Hersam -- Private industry
 + Rebecca Shen
 + Alex Crawford
 + Matthew Hamlin -- Masters program, University of Washington
 + Wesley Mession -- Private industry, electrical engineering
-+ Cora Karamitos
-
++ Cora Karamitos -- Teaching Physics, Paso Robles, CA
