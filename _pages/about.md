@@ -1,12 +1,12 @@
 ---
 layout: single
-title: About
+title: Wissel Group
 permalink: /about/
 ---
 
 Stephanie Wissel
 ===============
-+ Assistant Professor, Pennsylvania State University, January 2020-present  
++ Assistant Professor, Pennsylvania State University, 2020-present  
 + Assistant Professor, California Polytechnic State University, 2015-present  
   
 [Curriculum Vitae](../assets/images/swissel_CV.pdf)   \|
