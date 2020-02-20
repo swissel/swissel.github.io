@@ -5,18 +5,19 @@ permalink: /people/
 ---
 
 Stephanie Wissel
-Assistant Professor, Pennsylvania State University, January 2020-present
-Assistant Professor, California Polytechnic State University, 2015-present
-Office: 180-616
-
-[ORCiD](https://orcid.org/0000-0003-0569-6978)
-[Inpsire-HEP](https://labs.inspirehep.net/authors/1050673)
-[Google Scholar](https://scholar.google.com/citations?user=RZAmpswAAAAJ&hl=en)
-[GitHub](https://github.com/swissel)
+===============
++ Assistant Professor, Pennsylvania State University, January 2020-present  
++ Assistant Professor, California Polytechnic State University, 2015-present  
+  
+[Curriculum Vitae](../assets/images/swissel_CV.pdf)   \|
+[ORCiD](https://orcid.org/0000-0003-0569-6978) \|  
+[Inspire-HEP](https://labs.inspirehep.net/authors/1050673) \|  
+[Google Scholar](https://scholar.google.com/citations?user=RZAmpswAAAAJ&hl=en) \|   
+[GitHub](https://github.com/swissel) \|  
 
 
 Education
-=========
+----------
 + Postdoctoral Researcher, UCLA, Saltzberg Group
 + Postdoctoral Researcher, Princeton Plasma Physics Laboratory, Science Education Group
 + Ph.D. Physics, University of Chicago, Kavli Institute for Cosmological Physics (KICP) Advisor: Scott Wakely, Thesis: [Observations of Direct Cerenkov Light in Ground-Based Telescopes and the Flux of Iron Nuclei at TeV Energies](https://search.proquest.com/docview/610057950)

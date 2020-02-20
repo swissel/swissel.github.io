@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 Stephanie Wissel
-==================
+===============
 + Assistant Professor, Pennsylvania State University, January 2020-present  
 + Assistant Professor, California Polytechnic State University, 2015-present  
   
@@ -21,7 +21,7 @@ Education
 + Postdoctoral Researcher, Princeton Plasma Physics Laboratory, Science Education Group
 + Ph.D. Physics, University of Chicago, Kavli Institute for Cosmological Physics (KICP) Advisor: Scott Wakely, Thesis: [Observations of Direct Cerenkov Light in Ground-Based Telescopes and the Flux of Iron Nuclei at TeV Energies](https://search.proquest.com/docview/610057950)
 
-Current Group Members:
+Current Group Members
 =====================
 + Katie Carter
 + Andres Rodriguez
